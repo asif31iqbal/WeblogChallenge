@@ -15,3 +15,12 @@ Here is a brief summary:
 1. For predicting next minutes load, I tried several approaches - Weighted Moving Average, Exponential Moving Average, Linear Regression and LSTM. LSTM seems to give the best results, I compared the MAE and R2 scores.
 2. I made my best interpretation and did it accordingly. Would be happy to discuss.
 3. Same goes here.
+
+## Languages and Tools used:
+
+- Python
+- PySpark
+- Numpy
+- Pandas
+- Scikit Learn
+- Keras (with TensorFlow backend)
